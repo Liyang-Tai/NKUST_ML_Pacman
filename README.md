@@ -9,3 +9,6 @@ Run the training command in the directory. i.e. for 2000 runs of training and 10
 python pacman.py -p QLearnAgent -x 2000 -n 2010 -l smallGrid
 
 How to run command in directory: Shift + Right Click > Open in Powershell
+
+#Credit
+https://github.com/mandichen/Pacman_Qlearning
