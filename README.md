@@ -11,8 +11,8 @@ python pacman.py -p QLearnAgent -x 2000 -n 2010 -l smallGrid
 
 How to run command in directory: Shift + Right Click > Open in Powershell
 
-(2)
-New Pacman.ppt : Weekly Planning Report
+(2)\n
+New Pacman.ppt : Weekly Planning Report\n
 Demo : Demonstration video
 
 (3) Credit
