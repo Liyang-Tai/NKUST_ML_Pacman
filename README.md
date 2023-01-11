@@ -1,6 +1,6 @@
 # NKUST_ML_Pacman
 
-#Instruction
+1. Instruction
 Download the reinforcement pack of Pacman game: http://ai.berkeley.edu/projects/release/reinforcement/v1/001/reinforcement.zip
 
 Unzip the package and place mlLearningAgents.py inside the directory.
@@ -10,5 +10,5 @@ python pacman.py -p QLearnAgent -x 2000 -n 2010 -l smallGrid
 
 How to run command in directory: Shift + Right Click > Open in Powershell
 
-#Credit
+2. Credit
 https://github.com/mandichen/Pacman_Qlearning
