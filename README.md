@@ -15,7 +15,7 @@ How to run command in directory: Shift + Right Click > Open in Powershell
 
 New Pacman.ppt : Weekly Planning Report
 
-Demo : Demonstration video
+pac_demo.mp4 : Demonstration video
 
 (3) Credit
 
