@@ -55,3 +55,5 @@ Step 2-4 in Q-learning can be included in `getAction()` function. step 6 could b
 * observe reward
 * update Q(s,a)
 * reset attributes
+
+State is stored in util.Counter.
